@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/898dda08d2aec60072a7e1b5648082a346eafa38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_bde566493bdd5f6d85471e131dbe65074e5b0a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_55ecc5855b4135791cfbf73bb3759bae18f51cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/757701341179a40f447970ae52d47b8b6aec8b47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_870128ab88eff7789b5f0e53486a5a2895df7e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/8994a50484f23f64b38acef4412c1e7dac61695a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_3694d9d85a1357ed53eb6131aa122717a7d36d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/c6e6b3c3c2f62a322184544b7a5957eaaff0476d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_c22a32ea27df527387a0c0a0a7c0e556f75d330f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/10e8e85c1040231a502d35356958441f4a75500d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_5c0859ce7bdb389bf73f6567a69e8d3fa5a97699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/ece34f7be79470e86f4748424b5024e934cd29b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_6433001a4124b64f719a0849f9a5a058d6f1a76e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_3e31f2559b95dc7e326174422ab5a166b8341c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/731b11f7b67981c63a14d738535e531770231c20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_bfff476b105cf0e4653a9babf1ea1dc0f51522f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/4d1beaf302b525af66c65ff62996fb61d7b8d058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_f607abadd0d97a842d6b92f10e1526921c7cd4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/d39f3c75b195a3bf0b30798045fb9f4fdffeb56e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_982b422586dadda386d03afd31751465b527b2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/731b11f7b67981c63a14d738535e531770231c20/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_6735162b81022a454087d5a0ead718d176fc14ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_2af77f48483f5137c31798cd860ce73fd0b6d9ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f04653000ff9430a111aea81a08243edc514518b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_79fd47ecaa50573dbdecaa0a091ccc7cf5ffc115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/20c9f9c918b691c40c7989100c73e028cf337754/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_e6ca534787c47a18485540a08b8959ce1a2efdf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/d167616749b54b0004e2162b1757890ff824a56d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_b387e5544346916c089f0fc768080430adb3b212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/27c82e4afc368909c53df7e6a9961ae12177779b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_00bf01f5313516e34d8edb58902e935572c17b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/43a901d86345a9bf4df4e9d7fa49b9698ffb0bfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_f360a9e7b0c4bccc54632dce96be6937459fe8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/f4c4987f67956c1b4b915b0e45a4819518e3e12c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_31ec98b26b0d1de85c861a098ac5275b33eca078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_147fc2f325c9fe04e5695bf8f04662b493b20ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_47a9a51107b28dd8c1c8f7acb0e9a3783b9bc958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/b845fac4ad143bc5f096f78f9bebcea50a155937/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_b535dd298a3d8e95a6c1c3c65013fc3d2ee04370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3415cde7341fbbf0d0dae739e631068cb01007fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/57d1679280eeb2e038b52a1d24b1686a3dfd9da5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_61654302bbd5a562a07255ae9d42308f05659d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Android/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_89d9cb4ca9b7f0b9ebfbfefb6116399860358f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_552e549d63c3dc504a3525c2559302e138f35355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/11528c77f48472e9819a695eeeda2cb019d6cc9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_1dc3dbda3380e59c5bc8f08f01420f2cae461a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/80d53bce474194c19ffe379d56e070b4db8a7d64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_ef27707ad3b8bb99bc891a963d1d6217a91d8138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.android/build-cache/0c23d158fb5559f58bf8b32fd92c0b8759c11fc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/sun/GitHub_Repository/react-android/android/app/build/intermediates/pre-dexed/debug/classes_5487902564ed9909f3aa17d2215ef8912d308d8f.jar" />
+    </item>
+
+</items>
