@@ -1,30 +1,10 @@
-'use strict';
-import React from 'react';
-import{
-    AppRegistry,
-    StyleSheet,
-    Text,
-    View
-}from 'react-native';
+/**
+ * index
+ * Sister React Native App
+ */
 
-class HelloWorld extends React.Component{
-    render(){
-        return(
-            <View style={styles.container}>
-            <Text style={styles.hello}> Hello,World </Text>
-            </View>
-        )
-    }
-}
-var styles=StyleSheet.create({
-    container:{
-        flex:1,
-        justifyContent:'center',
-    },
-    hello:{
-        fontSize:20,
-        textAlign:'center',
-        margin:10,
-    }
-});
-AppRegistry.registerComponent('react-android',()=>HelloWorld);
+
+import { AppRegistry } from 'react-native';
+import App from './src/App'
+
+AppRegistry.registerComponent('react-android',()=>App);
